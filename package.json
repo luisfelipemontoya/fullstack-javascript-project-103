@@ -6,7 +6,7 @@
   "gendiff": "bin/gendiff.js"
   },
   "description": "[![Actions Status](https://github.com/luisfelipemontoya/fullstack-javascript-project-103/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/luisfelipemontoya/fullstack-javascript-project-103/actions)",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
