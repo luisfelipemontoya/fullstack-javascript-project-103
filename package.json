@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "bin": {
-  "gendiff": "bin/gendiff.js"
+    "gendiff": "bin/gendiff.js"
   },
   "description": "[![Actions Status](https://github.com/luisfelipemontoya/fullstack-javascript-project-103/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/luisfelipemontoya/fullstack-javascript-project-103/actions)",
   "main": "src/index.js",
@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "commander": "^14.0.3"
+    "commander": "^14.0.3",
+    "lodash": "^4.17.23"
   }
 }
