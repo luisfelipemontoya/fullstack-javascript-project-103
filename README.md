@@ -6,3 +6,7 @@
 [![Maintainability](https://qlty.sh/gh/luisfelipemontoya/projects/fullstack-javascript-project-103/maintainability.svg)](https://qlty.sh/gh/luisfelipemontoya/projects/fullstack-javascript-project-103)
 
 [![Code Coverage](https://qlty.sh/gh/luisfelipemontoya/projects/fullstack-javascript-project-103/coverage.svg)](https://qlty.sh/gh/luisfelipemontoya/projects/fullstack-javascript-project-103)
+
+## YAML comparison example
+
+[![asciicast](https://asciinema.org/a/6qlomRR7fKkiTF62.svg)](https://asciinema.org/a/6qlomRR7fKkiTF62)
