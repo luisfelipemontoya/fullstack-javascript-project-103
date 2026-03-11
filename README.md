@@ -10,3 +10,7 @@
 ## YAML comparison example
 
 [![asciicast](https://asciinema.org/a/6qlomRR7fKkiTF62.svg)](https://asciinema.org/a/6qlomRR7fKkiTF62)
+
+### Nested comparison example
+
+[![asciicast](https://asciinema.org/a/KcjcaSbfjsiqvXsL.svg)](https://asciinema.org/a/https://asciinema.org/a/KcjcaSbfjsiqvXsL)
