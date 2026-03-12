@@ -14,3 +14,7 @@
 ### Nested comparison example
 
 [![asciicast](https://asciinema.org/a/KcjcaSbfjsiqvXsL.svg)](https://asciinema.org/a/https://asciinema.org/a/KcjcaSbfjsiqvXsL)
+
+## CLI Demo (Stylish and Plain Formats)
+
+[![asciicast](https://asciinema.org/a/o2Mm6eBRwy17qjLU.svg)](https://asciinema.org/a/https://asciinema.org/a/o2Mm6eBRwy17qjLU)
