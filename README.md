@@ -19,6 +19,6 @@
 
 [![asciicast](https://asciinema.org/a/o2Mm6eBRwy17qjLU.svg)](https://asciinema.org/a/https://asciinema.org/a/o2Mm6eBRwy17qjLU)
 
-## CLI Demo (implement json formatter)
+## Implement json formatter
 
-[![asciicast](https://asciinema.org/a/https://asciinema.org/a/ozteB5C8PUTciccZ.svg)](https://asciinema.org/a/https://asciinema.org/a/ozteB5C8PUTciccZ)
+[![asciicast](https://asciinema.org/a/ozteB5C8PUTciccZ.svg)](https://asciinema.org/a/https://asciinema.org/a/ozteB5C8PUTciccZ)
