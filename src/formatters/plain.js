@@ -39,4 +39,4 @@ const iter = (nodes, parentPath = '') => {
   return lines;
 };
 
-export default (tree) => `${iter(tree).join('\n')}\n`;
+export default (tree) => `${iter(tree).join('\n')}`;

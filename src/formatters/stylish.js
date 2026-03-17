@@ -53,7 +53,7 @@ const formatNode = (node, depth) => {
 
 const stylish = (tree) => {
   const lines = tree.map((node) => formatNode(node, 1)).join('\n');
-  return `{\n${lines}\n}\n`;
+  return `{\n${lines}\n}`;
 };
 
 export default stylish;
