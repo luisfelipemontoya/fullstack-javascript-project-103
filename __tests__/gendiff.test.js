@@ -15,7 +15,7 @@ test('gendiff json flat files', () => {
   const file1 = getFixturePath('file1.json');
   const file2 = getFixturePath('file2.json');
   const expected = fs.readFileSync(getFixturePath('expected.txt'), 'utf-8');
-  
+
   expect(normalizeOutput(genDiff(file1, file2))).toBe(normalizeOutput(expected));
 });
 
@@ -23,6 +23,6 @@ test('gendiff plain format', () => {
   const file1 = getFixturePath('file1.json');
   const file2 = getFixturePath('file2.json');
   const expected = fs.readFileSync(getFixturePath('expected_plain.txt'), 'utf-8');
-  
+
   expect(normalizeOutput(genDiff(file1, file2, 'plain'))).toBe(normalizeOutput(expected));
 });

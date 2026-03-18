@@ -10,6 +10,10 @@ export default [
         ...globals.node,
       },
     },
+    rules: {
+      'no-trailing-spaces': 'error',
+      'no-multi-spaces': 'error',
+    },
   },
   {
     files: ['__tests__/**/*.js'],
@@ -17,6 +21,10 @@ export default [
       globals: {
         ...globals.jest,
       },
+    },
+    rules: {
+      'no-trailing-spaces': 'error',
+      'no-multi-spaces': 'error',
     },
   },
 ];
