@@ -1,20 +1,18 @@
-import js from "@eslint/js";
-import globals from "globals";
+import js from '@eslint/js';
+import globals from 'globals';
 
 export default [
   js.configs.recommended,
-
   {
-    files: ["**/*.js"],
+    files: ['**/*.js'],
     languageOptions: {
       globals: {
         ...globals.node,
       },
     },
   },
-
   {
-    files: ["__tests__/**/*.js"],
+    files: ['__tests__/**/*.js'],
     languageOptions: {
       globals: {
         ...globals.jest,
